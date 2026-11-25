@@ -1,0 +1,6 @@
+data/raw/
+data/processed/staged_loans.parquet
+data/processed/portfolio_with_risk_params.parquet
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
